@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   DitRit est une communauté open source qui cherche à répondre aux problématiques rencontrées par les entrperises à fort legacy qui cherchent à adopter les approches d'agilité et de DevOps.
 author: Xavier Talon
 email: contact@ditrit.io
-avatar: assets/images/avatar.jpg
+avatar: assets/images/iditrit_logo.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
