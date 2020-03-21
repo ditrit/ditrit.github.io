@@ -34,7 +34,7 @@ title: DitRit (Design it, Run it)
 subtitle: Simplifiez vous le DevOps
 description: >- # this means to ignore newlines until "baseurl:"
   DitRit est une communauté open source qui cherche à répondre aux problématiques rencontrées par les entrperises à fort legacy qui cherchent à adopter les approches d'agilité et de DevOps.
-author: Xavier Talon
+author:
 email: contact@ditrit.io
 avatar: assets/images/iditrit_logo.jpg
 
