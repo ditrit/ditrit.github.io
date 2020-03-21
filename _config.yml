@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: chrisbobbe/jekyll-theme-prologue
 title: DitRit (Design It, Run it!)
 description: Simplifiez vous le DevOps !
 
