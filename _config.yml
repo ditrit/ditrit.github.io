@@ -30,13 +30,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DitRit (Design it, Run it)
+title: DitRit
 subtitle: Simplifiez vous le DevOps
 description: >- # this means to ignore newlines until "baseurl:"
   DitRit est une communauté open source qui cherche à répondre aux problématiques rencontrées par les entrperises à fort legacy qui cherchent à adopter les approches d'agilité et de DevOps.
 author:
 email: contact@ditrit.io
-avatar: assets/images/iditrit_logo.jpg
+avatar: assets/images/ditrit_logo.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
