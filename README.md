@@ -1,6 +1,3 @@
-# treivax.github.io
-test github pages en vue du site de ditrit.io
-
 # La communauté DitRit (Design it, Run it)
 
 ## Qui sommes nous ?

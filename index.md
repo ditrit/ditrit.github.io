@@ -1,10 +1,7 @@
-# treivax.github.io
-test github pages en vue du site de ditrit.io
-
-# La communauté DitRit (Design it, Run it)
+# Bienvenue dans la communauté DitRit
 
 ## Qui sommes nous ?
-** Ditrit (Design it, Run it)** est une communauté à but non lucratif (association en cours de constitution) qui cherche à répondre aux problématique rencontrées par les entreprises à fort legacy  dans leur mise en œuvre des approches Agiles / DevOps. 
+**Ditrit (Design it, Run it)** est une communauté à but non lucratif (association en cours de constitution) qui cherche à répondre aux problématique rencontrées par les entreprises à fort legacy  dans leur mise en œuvre des approches Agiles / DevOps. 
 
 Dans ce cadre, DitRit développe et propose des solutions open-source pour illustrer ses travaux.
 
