@@ -8,8 +8,10 @@ order: 3
 
 DitRit n'existerait paa sans eux :
 
-1. Xavier Talon: *L'initiateur*
+1. Xavier Talon: *Architecte et initiaiteur de DitRit !*
 2. Romain Ferant: *Le faiseur de code*
-3. Jan Atac: *L'homme des hautes plaines*
-4. Marion Atac: *La fille de l'homme*
-5. ...
+3. Jan Atac: *Tech Lead et communiquant*
+4. Marion Atac : *Etudiante en communication*
+5. Didier Legrand : *Architecte*
+6. Thierry Cagnin : *Coach Agile / DevOps*
+...
