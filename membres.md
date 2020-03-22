@@ -3,7 +3,7 @@ title: Les membres
 subtitle: Les membres actifs de la communauté DitRit
 layout: "page"
 icon: fa-book
-order: 3
+order: 2
 ---
 
 DitRit n'existerait paa sans eux :
