@@ -7,6 +7,8 @@ jobs:
         name: Compare generated file with existing file
         runs-on: ubuntu-latest
         steps:
+          - name: Installing Hugo
+            run: sudo apt-get install hugo
           - name: Generate Files From Source
             run: hugo -D -d testGeneratedFiles
           - name: Compare Files
