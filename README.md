@@ -1,5 +1,5 @@
 
-# DitRit Website
+# DitRit Website ![Verify Deployment](https://github.com/ditrit/ditrit.github.io/workflows/Verify%20Deployment/badge.svg)
 
 The ditrit community have chosen the website generator hugo and the theme syna.
 
