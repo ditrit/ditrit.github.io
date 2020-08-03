@@ -1,0 +1,13 @@
+name: Verify Deployment
+
+on: [push]
+
+jobs:
+    build:
+        name: Compare generated file with existing file
+        runs-on: ubuntu-latest
+        steps:
+          - name: Generate Files From Source
+            run: hugo -D -d testGeneratedFiles
+          - name: Compare Files
+            run: diff testGeneratedFiles docs
