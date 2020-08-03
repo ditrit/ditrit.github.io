@@ -11,7 +11,7 @@ subtitle  = "*Faites-nous part de vos idées !*"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://example.com/mailout" #default: formspree.io
-email = "mail@example.com"
+email = "contact@ditrit.io"
 button_text = "Envoyer" # defaults to theme default
 #netlify = false
 
@@ -21,7 +21,7 @@ button_text = "Envoyer" # defaults to theme default
 
 [message]
   success = "Thank you for awesomely contacting us." # defaults to theme default
-  error = "Message could not be send. Please contact us at mail@example.com instead." # defaults to theme default
+  error = "Message could not be send. Please contact us at contact@ditrit.io instead." # defaults to theme default
 
 # Only defined fields are shown in contact form
 [fields.name]
