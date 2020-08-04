@@ -1,6 +1,10 @@
 name: Verify Deployment
 
-on: [push]
+on:
+    push
+    pull_request
+    schedule:
+      - cron: '0 4 * * *'
 
 jobs:
     build:
@@ -12,6 +16,9 @@ jobs:
 
           - name: Installing Hugo
             run: sudo snap install hugo
+
+          - name: Print Hugo Version
+            run: hugo version
 
           - name: Generate Files From Source
             run: hugo -D -d testGeneratedFiles
