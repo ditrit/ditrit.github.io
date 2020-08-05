@@ -82,11 +82,6 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.footer]]
-  url = "https://taiga.ditrit.io"
-  name = "Gestion de projet"
-  weight = 30
-
-[[menu.footer]]
   url = "https://ditrit.zulipchat.com"
   name = "Le chat room Zulip"
   weight = 10

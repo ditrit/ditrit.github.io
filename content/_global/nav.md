@@ -7,7 +7,7 @@ weight = 0
 
 [repo_button]
   url = "https://github.com/ditrit"  
-  text = "Star" # default: "Star"
+  text = "Organisation GitHub" # default: "Star"
   icon = "fab fa-github" # defaults: "fab fa-github"
 
 # Branding options
