@@ -12,7 +12,7 @@ subtitle  = "*Vous pouvez également nous envoyer un mail directement à contact
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://formspree.io/contact@ditrit.io" #default: formspree.io
 email = "contact@ditrit.io"
-button = "Envoyer" # defaults to theme default
+button_text = "Envoyer" # defaults to theme default
 #netlify = false
 
 # Optional google captcha
