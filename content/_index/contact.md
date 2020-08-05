@@ -7,7 +7,7 @@ weight = 1100
 form_name = "defaultContact"
 
 title = "Nous contacter"
-subtitle  = "*not working on demo page*"
+subtitle  = "*Vous pouvez également nous envoyer un mail directement à contact@ditrit.io*"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://formspree.io/contact@ditrit.io" #default: formspree.io
