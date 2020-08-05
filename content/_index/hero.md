@@ -29,7 +29,7 @@ subtitle = "<b>Simplifiez-vous la transformation numérique...!</b>"
   color = "primary"
 
 [[buttons]]
-  text = "Les évènements"
+  text = "Le blog"
   url = "/blog"
   color = "success"
 +++

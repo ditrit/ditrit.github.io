@@ -96,14 +96,14 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Le chatroom Zulip"
   weight = 30
 
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
+# [[menu.footer_social]]
+#   weight = 20
+#   name = "facebook"
+#   pre = "fab fa-facebook-f"
+#   url = "#"
 
 [[menu.footer_social]]
   weight = 30
   name = "linkedIn"
   pre = "fab fa-linkedin-in"
-  url = "#"
+  url = "https://www.linkedin.com/company/ditrit"
