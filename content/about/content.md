@@ -23,3 +23,5 @@ Ses principales activités consistent à&nbsp;:
 L'Association DitRit vise dans son périmètre d'analyse et dans ses propositions et livrables toutes les organisations concernées directement ou indirectement par la transformation numérique, quelle que soit leur nature (publiques, privées, commerciales, à but non lucratif, etc.) ou leur taille (PME ou multinationales).
 
 L'Association est ouverte sans condition à toute personne intéressée directement ou indirectement par son objet&nbsp;; elle pourra accéder et bénéficier de ses productions sans restriction d'aucune sorte, sinon le respect des règles de fonctionnement et de respect mutuel tels qu'indiquées dans les statuts et le règlement intérieur.
+
+Vous pouvez retrouver la liste des membres fondateurs [ici](/founders).

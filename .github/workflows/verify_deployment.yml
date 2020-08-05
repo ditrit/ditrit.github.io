@@ -20,8 +20,5 @@ jobs:
           - name: Print Hugo Version
             run: hugo version
 
-          - name: Generate Files From Source
-            run: hugo -D -d testGeneratedFiles
-
-          - name: Compare Files
-            run: diff testGeneratedFiles docs
+          - name: Generate Files From Source And Compare
+            run: make test
