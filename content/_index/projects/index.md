@@ -1,8 +1,8 @@
 +++
 date = "2020-06-11"
 fragment = "portfolio"
-weight = 110
-background = "secondary"
+weight = 300
+background = "light"
 
 title = "Les projets"
 subtitle = "Pour illustrer ses travaux, la communauté DitRit développe différents projets open source, dont la vocation est de fournir une aide aux organisations pour leur programme de transformation."
