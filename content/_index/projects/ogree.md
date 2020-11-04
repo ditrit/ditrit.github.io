@@ -1,7 +1,7 @@
 +++
 # date = "2020-07-11"
 weight = 50
-title = "O.G.R.E.E. : Offline Graph End to End"
+title = "O.Gr.E.E. : Offline Graph End to End"
 subtitle = "Visualisateur de centre de données (datacenter)"
 
 [asset]
