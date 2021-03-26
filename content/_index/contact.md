@@ -32,10 +32,6 @@ button_text = "Envoyer" # defaults to theme default
   text = "Votre adresse mail *"
   #error = "" # defaults to theme default
 
-[fields.phone]
-  text = "Votre numéro de téléphone *"
-  #error = "" # defaults to theme default
-
 [fields.message]
   text = "Votre message *"
   #error = "" # defaults to theme default

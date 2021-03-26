@@ -5,7 +5,7 @@ date = "2017-10-05"
 weight = 100
 #background = ""
 
-title = "Qui sommes-nous ?"
+title = "À propos"
 #subtitle = ""
 +++
 

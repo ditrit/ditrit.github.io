@@ -7,7 +7,7 @@ background = "light" # can influence the text color
 particles = true
 
 title = ""
-subtitle = "<b>Simplifiez-vous la transformation numérique...!</b>"
+subtitle = "<b>Le Think and Do Tank de la transformation numérique</b>"
 
 [header]
   image = "rainbow.jpg"
@@ -19,17 +19,12 @@ subtitle = "<b>Simplifiez-vous la transformation numérique...!</b>"
   # height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "DitRit expliqué"
-  url = "#ditrit-short"
+  text = "Les groupes de travail"
+  url = "#workgroup"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Les projets"
-  url = "#projects"
+  text = "Les produits"
+  url = "#produits"
   color = "primary"
-
-[[buttons]]
-  text = "Le blog"
-  url = "/blog"
-  color = "success"
 +++
