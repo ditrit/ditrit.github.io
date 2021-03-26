@@ -5,7 +5,7 @@ title = "Leto : TOSCA et un peu plus..."
 subtitle = "Orchestrateur TOSCA étendu"
 
 [asset]
-  image = "tosca.jpg"
+  image = "leto.jpg"
 
 +++
 
