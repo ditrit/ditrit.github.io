@@ -68,13 +68,18 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "/about"
-  name = "Qui sommes-nous ?"
+  name = "À propos"
+  weight = 30
+
+[[menu.main]]
+  url = "/manifest"
+  name = "Le manifeste"
   weight = 20
 
 [[menu.main]]
   url = "#contact"
   name = "Nous contacter"
-  weight = 30
+  weight = 40
 
 [[menu.footer]]
   url = "https://github.com/ditrit"

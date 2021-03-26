@@ -3,28 +3,31 @@ fragment = "item"
 #disabled = false
 date = "2020-08-06"
 weight = 200
-background = "secondary"
+background = "light"
 align = "center"
 
-title = "Think and Do Tank Organization"
-subtitle= "Un sous titre à définir"
+title = "Le Think and Do Tank de la transformation numérique"
+#subtitle= "Un sous titre à définir"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
-#post = "Showcasing Syna"
+post = "<a href=\"/manifest\" target=\"_blank\"> Voir notre manifeste </a>"
 
 [asset]
   image = "ThinkAndDoTankOrganization.png"
 +++
 
-Easily left align the item fragment even with an image and buttons at the same time.
+DitRit est une organisation indépendante et ouverte sous la forme
+d’une association loi 1901, construite autour d’un socle de 
+personnes éclectiques (chercheurs, dirigeants, experts,
+entrepreneurs, développeurs...).
 
-Some more text to showcase the description capabilities:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Curabitur a lorem urna.
-Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est.
-Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis.
-Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum.
-Suspendisse rutrum, mi ac sollicitudin blandit, eros sem tincidunt enim, vitae feugiat turpis eros ut diam.
-Nunc hendrerit, nibh vitae dignissim pretium, magna nulla lacinia massa, et interdum lacus purus ultricies lacus.
-Nulla tincidunt quis lacus in posuere.
+DitRit
+agit à 2 niveaux : d’une part
+la partie Think qui consiste en des groupes de travail permettant aux
+membres de partager des pistes de réflexion avec des pairs et des
+experts. D’autre part
+la
+partie Do qui  consiste en l’incubation de projets open- source qui
+fournissent des preuves de concepts et des outils de facilitation de
+la transformation numérique.

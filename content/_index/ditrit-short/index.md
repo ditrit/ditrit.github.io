@@ -1,8 +1,8 @@
 +++
 fragment = "items"
-weight = 100
+weight = 600
 
-title = "DitRit expliqué"
-background = "light"
+title = "DitRit en clair"
+background = "secondary"
 +++
 
