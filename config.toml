@@ -77,29 +77,29 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
+  url = "/contact"
   name = "Nous contacter"
   weight = 40
 
 [[menu.footer]]
-  url = "https://github.com/ditrit"
-  name = "Code source des projets"
+  url = "https://ditrit.zulipchat.com"
+  name = "Chat room Zulip"
+  weight = 10
+
+[[menu.footer]]
+  url = "https://nextcloud.ditrit.io"
+  name = "Espace de stockage nextcloud"
   weight = 20
 
 [[menu.footer]]
-  url = "https://ditrit.zulipchat.com"
-  name = "Le chat room Zulip"
-  weight = 10
-
-[[menu.copyright_footer]]
-  url = "/about"
-  name = "Qui sommes-nous ?"
-  weight = 10
-
-[[menu.copyright_footer]]
-  url = "https://ditrit.zulipchat.com"
-  name = "Le chatroom Zulip"
+  url = "https://github.com/ditrit"
+  name = "Code source des projets"
   weight = 30
+
+[[menu.copyright_footer]]
+  url = "/confidentiality"
+  name = "Politique de confidentialité"
+  weight = 10
 
 # [[menu.footer_social]]
 #   weight = 20

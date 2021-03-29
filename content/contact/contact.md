@@ -2,12 +2,14 @@
 fragment = "contact"
 #disabled = true
 date = "2017-09-10"
-weight = 1100
+weight = 100
 #background = "light"
 form_name = "defaultContact"
 
 title = "Nous contacter"
 subtitle  = "*Vous pouvez également nous envoyer un mail directement à contact@ditrit.io*"
+[subsubtitle]
+  text = "Pour en savoir plus sur la gestion de vos données personnelles et pour exercer vos droits, reportez-vous à notre [politique de confidentialité](/confidentiality)"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://formspree.io/contact@ditrit.io" #default: formspree.io

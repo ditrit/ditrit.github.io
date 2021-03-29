@@ -3,13 +3,13 @@ fragment = "footer"
 #disabled = true
 date = "2016-09-07"
 weight = 1200
-#background = "" 
+background = "dark" 
 
 menu_title = "Pour aller plus loin"
 
 [asset]
   title = "Logo Title"
-  image = "ditrit_logo.svg"
+  image = "ditrit_logo_white.svg"
   text = "DitRit"
   url = "#"
 +++

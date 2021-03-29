@@ -417,8 +417,8 @@ html {
                 À propos
               </a>
             </li><li class="nav-item">
-              <a href="/#contact"
-                  class="nav-link anchor">
+              <a href="/contact"
+                  class="nav-link">
                 Nous contacter
               </a>
             </li>
@@ -809,110 +809,16 @@ la transformation numérique.</p>
     </div>
 </section>
 
-
-<!-- Contact -->
-<!-- Contact -->
-<section id="contact" class="fragment ">
-    <div class="container-fluid bg-light ">
-    <div class="container py-5 ">
-
-  <div class="title-container row mx-0">
-    <div class="title col px-0 text-center text-body">
-      <h2>Nous contacter</h2>
-    </div>
-  </div><div class="subtitle-container row mx-0">
-    <div class="subtitle col pt-4 pb-0 px-0 text-center text-body">
-      <h5><em>Vous pouvez également nous envoyer un mail directement à <a href="mailto:contact@ditrit.io">contact@ditrit.io</a></em></h5>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-12">
-      <form
-        class="contact position-relative"
-        method="POST"
-        name="defaultContact"
-        id="defaultContact" action="https://formspree.io/contact@ditrit.io" data-has-formspree="true">
-          <div class="row py-3 should-fade">
-            <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="name"
-                    name="name"
-                    class="form-control"
-                    type="text"
-                    data-validation
-                    data-validation-error-msg="Please enter your name"
-                    placeholder="Votre nom *"
-                    required>
-                  <div class="px-2" data-error id="name-error"></div>
-                </div>
-                <div class="form-group">
-                  <input
-                    id="email"
-                    name="email"
-                    class="form-control"
-                    type="text"
-                    data-validation="email"
-                    data-validation-error-msg="Please enter your email address"
-                    placeholder="Votre adresse mail *"
-                    required>
-                  <div class="px-2" data-error id="email-error"></div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="form-group">
-                  <textarea
-                    id="message"
-                    name="message"
-                    class="form-control text-dark"
-                    type="text"
-                    data-validation
-                    data-validation-error-msg="Send Message"
-                    placeholder="Votre message *"
-                    rows="4"
-                    required></textarea>
-                  <div class="px-2" data-error id="message-error"></div>
-                </div>
-            </div>
-            <div class="col-lg-12 text-center">
-              <div class="captcha-error alert alert-danger d-none" id="captcha-error">Message could not be send due to captcha not loadable. Please contact us at contact@ditrit.io.
-              </div>
-              <div class="generic-error alert alert-danger d-none" id="generic-error">Message could not be send. Please contact us at contact@ditrit.io.
-              </div>
-              <noscript>
-                <div class="alert alert-danger py-2" id="js-error">Message can not be send with javascript disabled. Please contact us at contact@ditrit.io.
-                </div>
-              </noscript>
-                <button
-                  class="btn submit-btn btn-primary"
-                  type="submit">Envoyer
-                </button>
-            </div>
-          </div>
-              <input type="hidden" name="page" value="/"/>
-              <input type="hidden" name="someID" value="example.com"/><div class="generic-success mb-0 mb-3 hidden" id="generic-success">
-            <div class="alert alert-success">Thank you for contacting us
-            </div>
-            <span class="btn btn-primary" data-action="return-form">Return</span>
-          </div>
-      </form>
-    </div>
-  </div>
-    </div>
-    </div>
-</section>
-
 <!-- Footer -->
 <section id="footer" class="fragment ">
-    <div class="container-fluid bg-light ">
+    <div class="container-fluid bg-dark ">
     <div class="container py-5 ">
 
   <div class="row">
-    <div class="col-md m-2 text-body">
+    <div class="col-md m-2 text-secondary">
         <h4></h4>
         <a href="#">
-          <img src="/images/ditrit_logo.svg" class="img-fluid w-50" alt="DitRit">
+          <img src="/images/ditrit_logo_white.svg" class="img-fluid w-50" alt="DitRit">
         </a>
         <div class="row justify-content-left ml-0">
             <span class="fa-stack fa-2x mt-3 mr-1" title="linkedIn">
@@ -924,18 +830,21 @@ la transformation numérique.</p>
             </span>
         </div>
     </div>
-    <div class="col-md m-2 text-body">
+    <div class="col-md m-2 text-secondary">
         <h4>Pour aller plus loin</h4>
         <ul class="nav flex-column">
               <li class="nav-item">
-                <a class="nav-link p-0 display-5" href="https://ditrit.zulipchat.com" target="_blank">Le chat room Zulip</a>
+                <a class="nav-link p-0 display-5" href="https://ditrit.zulipchat.com" target="_blank">Chat room Zulip</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link p-0 display-5" href="https://nextcloud.ditrit.io" target="_blank">Espace de stockage nextcloud</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link p-0 display-5" href="https://github.com/ditrit" target="_blank">Code source des projets</a>
               </li>
         </ul>
     </div>
-    <div class="col-md m-2 text-body">
+    <div class="col-md m-2 text-secondary">
         <div><h4 id="design-it-run-it">Design it, Run it</h4>
 <ul>
 <li>un laboratoire d&rsquo;idées au service de votre transformation numérique ;</li>
@@ -950,31 +859,23 @@ la transformation numérique.</p>
 
 
 <!-- Copyright -->
-<footer class="overlay fragment container-fluid bg-light" id="copyright">
+<footer class="overlay fragment container-fluid bg-dark" id="copyright">
   <div class="container">
     <div class="row py-3">
       <div class="col-md">
-        <div class="row mx-0 my-2 justify-content-center text-center text-lg-none text-black-50">
+        <div class="row mx-0 my-2 justify-content-center text-center text-lg-none text-white">
           <div class="row mx-0 mr-lg-auto justify-content-center">
               <div class="col-auto px-1 copyright-legal">© Copyright&nbsp;2021</div>
               <div class="col-auto px-0 copyright-by"> by  DitRit</div>
           </div>
         </div>
       </div>
-        <div class="col-auto mx-auto">
-          <div class="row mx-0 navbar-text text-center text-black-50">Website based on<a href="https://syna.okkur.org" class="ml-1">Syna</a>
-          </div>
-        </div>
         <div class="col-md">
           <div class="row mx-0 my-2 justify-content-center">
             <ul class="nav ml-lg-auto">
                 <li class="nav-item">
-                  <a class="nav-link py-0" href="/about"
-                  >Qui sommes-nous ?</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link py-0" href="/https:/ditrit.zulipchat.com"
-                  >Le chatroom Zulip</a>
+                  <a class="nav-link py-0" href="/confidentiality"
+                  >Politique de confidentialité</a>
                 </li>
             </ul>
           </div>
@@ -990,6 +891,5 @@ la transformation numérique.</p>
       <script async defer src="/scripts/syna-portfolio.min.024ca705df2f565df721d7259616794f67ffb56e85fd6eefa3e13a7484c2e54e.js"></script>
       <script async defer src="/scripts/syna-portfolio.min.024ca705df2f565df721d7259616794f67ffb56e85fd6eefa3e13a7484c2e54e.js"></script>
       <script async defer src="/scripts/syna-portfolio.min.024ca705df2f565df721d7259616794f67ffb56e85fd6eefa3e13a7484c2e54e.js"></script>
-      <script async defer src="/scripts/syna-contact.min.65ae1e3359ee7a170569564df3be09946d477dcbc9f5126cc1faf69ed2a5b217.js"></script>
   </body>
 </html>
