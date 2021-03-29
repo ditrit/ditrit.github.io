@@ -52,7 +52,7 @@
         <ul class="nav flex-column">
             {{- range sort .Site.Menus.footer }}
               <li class="nav-item">
-                <a class="nav-link p-0 display-5" href="{{ .URL }}"
+                <a class="nav-link p-0 display-5" href="{{ .URL }}" target="_blank"
                   {{- if hasPrefix .URL "#" }}
                     class="anchor"
                   {{- end -}}>
