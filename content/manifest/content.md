@@ -13,7 +13,7 @@ DitRit est le Think and Do Tank de la transformation numérique.
 Il s’agit d’une organisation indépendante et ouverte  sous la forme
 d’une association loi 1901, construite autour d’un socle de
 personnes éclectiques (chercheurs, dirigeants, experts, entrepreneurs,
-développeurs…) en passe de devenir d’intérêt général.
+développeurs…).
 
 Notre collectif pluraliste est convaincu que la
 transformation numérique doit être possible pour tous. Ainsi,
