@@ -6,7 +6,7 @@ position = "Secrétaire"
 # lives_in = "[Pantin](https://www.google.com/maps/place/Iceland/)"
 align = "left"
 scope = [
-  "Étudiant, Junior-entrepreneur"
+  "Étudiant, Entrepreneur"
 ]
 
 [asset]
